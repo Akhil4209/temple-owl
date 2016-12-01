@@ -1,1 +1,6 @@
 # temple-owl
+Version control is a component of software configuration management which provides a controlled and efficient management of software files during a project. It consists of a repository of files, usually files of source code of a project and it provides functionalities of monitoring the changes made to the file. Hence in order to avoid chaos and track regression, Version Control is used.
+
+Tracks performance - A new version of the file is created when a small change is incorporated and saved. Through code modification history, developers can monitor the versions with respect to the time and person who has edited any file to track performance of the process. Developers can also roll back to any revision they want, hence giving the benefit of correcting the errors made very easily.
+Consistency & Concurrency - It assists in team coordination, whether the team is at the same location or distributed, while maintaining consistency and concurrency. Two or more contributors can work on the same resource file simultaneously and release it to the repository after which it is upto the management/development team to chose the final file to be used in the main branch. 
+Benchmark -  Ability to take snapshots of the codebase at anytime helps to define a benchmark for performance evaluation
